@@ -1,0 +1,5 @@
+
+smit@smit-Lenovo-B570:/home/smit/Study/OS/Assignment_1/Code$ echo hello
+hello
+
+smit@smit-Lenovo-B570:/home/smit/Study/OS/Assignment_1/Code$ record stop
